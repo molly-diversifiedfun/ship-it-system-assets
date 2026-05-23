@@ -1,0 +1,22 @@
+# macOS
+.DS_Store
+._*
+
+# Editors
+.vscode/
+.idea/
+*.swp
+
+# AI image generation scratch (use only as staging, never commit)
+nanobanana-output/
+
+# Generic scratch (use _scratch/ for any throwaway work)
+_scratch/
+*.tmp
+*.bak
+
+# Secrets — never commit
+.env
+.env.local
+*.pem
+*.key
