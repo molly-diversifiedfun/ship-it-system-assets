@@ -154,8 +154,9 @@ MOS = page(
      esc("Each one encodes a named, public framework and the judgment of when it fires and what it needs. Run brand-voice-blueprint once and every command after it sounds like you.")],
     [
         ("Attract (8 commands).", "Persona playbook, awareness-to-messaging, viral hook generator, Instagram reels framework, funnel ad creator, content repurposing pipeline, brand voice blueprint, humanize AI writing.", []),
-        ("Convert (11 commands).", "Irresistible offer (Hormozi's Value Equation), conversion sales letter (Belcher's 21 steps), micro-commitment ladder, offer ladder, pricing architecture, testimonial stories, FAQ from objections, funnel landing page designer, launch sequence, onboarding sequence, and a skill router.", []),
-        ("Deliver and Grow (7 commands).", "Email story engine, referral engine, win-back system, tag-based funnel system, business launch checklist, SaaS financial model, design-tell audit.", []),
+        ("Convert (11 commands).", "Irresistible offer (Hormozi's Value Equation), conversion sales letter (Belcher's 21 steps), micro-commitment ladder, offer ladder, pricing architecture, testimonial stories, funnel landing page designer, business launch checklist, FAQ from objections, SaaS financial model, design-tell audit.", []),
+        ("Deliver and Grow (6 commands).", "Email story engine, launch sequence, onboarding sequence, referral engine, win-back system, tag-based funnel system.", []),
+        ("Plus the skill router.", "Say what you need in plain English and it picks the right command. That is the 26th.", []),
         ("Voice DNA.", "The brand voice blueprint reverse-engineers your voice from writing you already have. The \"make this sound human\" step disappears.", []),
         ("Chained outputs.", "Each command's output is shaped to be the next command's input, so a full go-to-market is a weekend, not six unrelated chat sessions.", []),
     ],
